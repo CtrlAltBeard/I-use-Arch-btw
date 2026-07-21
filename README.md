@@ -2,6 +2,7 @@
 Songs for when your pacman -Syu goes horribly wrong and you're 6 hours deep with no way out. 
 # 🔥 I use Arch btw: An Emotional Support Playlist 🔥
 
+![This is fine](https://media1.tenor.com/m/OCAVH-SFsM8AAAAC/it%27s-fine-im-fine.gif) 
 ![This is fine](https://img.shields.io/badge/Status-On%20Fire-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-WTFPL-brightgreen?style=for-the-badge)
 ![PRs](https://img.shields.io/badge/PRs-Encouraged%20(or%20else)-blueviolet?style=for-the-badge)
